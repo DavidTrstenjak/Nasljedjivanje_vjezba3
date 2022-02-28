@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\obj\Debug\Nasljedjivanje_vjezba3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\obj\Debug\Nasljedjivanje_vjezba3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\obj\Debug\Nasljedjivanje_vjezba3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\bin\Debug\Nasljedjivanje_vjezba3.exe.config
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\bin\Debug\Nasljedjivanje_vjezba3.exe
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\bin\Debug\Nasljedjivanje_vjezba3.pdb
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\obj\Debug\Nasljedjivanje_vjezba3.exe
+C:\Users\PC\source\repos\Nasljedjivanje_vjezba3\Nasljedjivanje_vjezba3\obj\Debug\Nasljedjivanje_vjezba3.pdb
